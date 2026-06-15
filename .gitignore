@@ -1,0 +1,10 @@
+# Maven
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+nbproject/
+build/
+dist/
